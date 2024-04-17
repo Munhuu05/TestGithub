@@ -8,7 +8,7 @@ public class test {
 		System.out.println("clskjflksdgj");
 		System.out.println("clskjdgj");
 		System.out.println("Murun_bn");
-		
+		System.out.println("Tuguldur_bn");
 	}
 
 }
